@@ -91,13 +91,6 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 
 ---
 
-## 👨‍💻 Contributors  
-- Harshith Reddy  
-- Sanjana  
-- Sivarama Krishna  
-
----
-
 ## 📜 License  
 This project is licensed under the MIT License – feel free to use and modify with attribution.  
 
