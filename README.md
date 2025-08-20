@@ -1,10 +1,6 @@
 # 🛰️ Remote Sensing Image Analysis using Deep Learning  
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)  
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)  
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras) ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
 ---
 
