@@ -5,8 +5,6 @@
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)  
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)  
 
 ---
 
