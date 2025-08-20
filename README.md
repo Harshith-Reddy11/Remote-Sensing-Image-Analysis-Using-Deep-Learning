@@ -17,9 +17,8 @@
 6. [⚙️ Technologies Used](#-technologies-used)  
 7. [🚀 Future Enhancements](#-future-enhancements)  
 8. [📊 Results](#-results)  
-9. [📸 Sample Output](#-sample-output)  
-10. [👨‍💻 Contributors](#-contributors)  
-11. [📜 License](#-license)  
+9. [📸 Sample Output](#-sample-output)   
+10. [📜 License](#-license)  
 
 ---
 
