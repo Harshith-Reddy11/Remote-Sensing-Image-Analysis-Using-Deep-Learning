@@ -82,8 +82,6 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 
 ---
 
-## 📸 Sample Output  
-*(Add sample detection images here, e.g., bounding boxes around Cars, Boats, etc.)*  
 
 ---
 
