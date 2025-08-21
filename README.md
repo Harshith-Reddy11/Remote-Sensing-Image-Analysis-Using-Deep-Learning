@@ -80,8 +80,6 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 | Recall        | High    |  
 | F1-Score      | Balanced|  
 
----
-
 
 ---
 
