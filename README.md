@@ -12,9 +12,8 @@
 5. [🧮 Model Performance](#-model-performance)  
 6. [⚙️ Technologies Used](#-technologies-used)  
 7. [🚀 Future Enhancements](#-future-enhancements)  
-8. [📊 Results](#-results)  
-9. [📸 Sample Output](#-sample-output)   
-10. [📜 License](#-license)  
+8. [📊 Results](#-results)    
+9. [📜 License](#-license)  
 
 ---
 
