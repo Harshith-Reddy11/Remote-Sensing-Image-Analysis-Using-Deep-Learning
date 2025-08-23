@@ -57,7 +57,7 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 
 ## ⚙️ Technologies Used  
 - **Programming Language:** Python  
-- **Libraries & Frameworks:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib  
+- **Libraries & Frameworks:** TensorFlow, Keras, OpenCV, NumPy, Matplotlib, scikit-learn 
 - **Deep Learning Models:** ResNeXt-50 (CNN), LSTM  
 - **Dataset:** RSSOD  
 
