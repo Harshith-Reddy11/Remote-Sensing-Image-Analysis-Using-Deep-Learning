@@ -27,7 +27,7 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 - Automate **object detection** in satellite and aerial imagery
 - Accurately classify objects into **5 categories**: Car, Boat, Tree, Vegetation, and Aeroplane 
 - Improve detection **accuracy, speed, and scalability** compared to traditional methods.  
-- Enable applications in **environmental monitoring, surveillance, and urban planning**.  
+- Enable applications in **environmental monitoring, surveillance, and urban planning**
 
 ---
 
