@@ -36,7 +36,7 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 - **Size:** 2,000+ high-resolution aerial images  .
 - **Classes:** (5 Classes) : Car, Aeroplane, Vegetation, Tree, Boat . 
 - **Annotations:** Includes bounding boxes for object detection .
-- **Kaggle Link** 
+- **Kaggle Link** : https://www.kaggle.com/datasets/umeradnaan/remote-sensing-satellite-images/data
 
 ---
 
