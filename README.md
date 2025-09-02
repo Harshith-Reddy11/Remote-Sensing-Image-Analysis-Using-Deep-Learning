@@ -37,6 +37,7 @@ By combining **ResNeXt-50 (CNN)** for spatial feature extraction and **LSTM** fo
 - **Classes:** (5 Classes) : Car, Aeroplane, Vegetation, Tree, Boat . 
 - **Annotations:** Includes bounding boxes for object detection .
 - **Kaggle Link** : https://www.kaggle.com/datasets/umeradnaan/remote-sensing-satellite-images/data
+- **Note**: The linked Kaggle dataset is for reference only. The original dataset will be uploaded or updated shortly.
 
 ---
 
